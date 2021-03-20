@@ -1,0 +1,3 @@
+let Tc = 20;
+let Tf = 9/5 * 20 + 32;
+alert (Tc);
